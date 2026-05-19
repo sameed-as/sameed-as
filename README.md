@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Centered Profile Banner -->
 <p align="center">
-  <img src="banner.jpg" alt="Sameed Ahmed Siddiqui Banner" width="100%">
+  <img src="banner.png" alt="Sameed Ahmed Siddiqui Banner" width="100%">
 </p>
 
 ## 🚀 About Me
