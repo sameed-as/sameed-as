@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="images/headshot.png" alt="Sameed Ahmed Siddiqui Headshot" width="120" style="border-radius: 50%; border: 3px solid #2563eb;">
+      <img src="headshot.png" alt="Sameed Ahmed Siddiqui Headshot" width="120" style="border-radius: 50%; border: 3px solid #2563eb;">
     </td>
     <td valign="middle" style="padding-left: 20px;">
       <h1>Hi there, I'm Sameed Ahmed Siddiqui 👋</h1>
