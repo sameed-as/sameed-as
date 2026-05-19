@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="images/headshot.jpg" alt="Sameed Ahmed Siddiqui Headshot" width="120" style="border-radius: 50%; border: 3px solid #2563eb;">
+      <img src="images/headshot.png" alt="Sameed Ahmed Siddiqui Headshot" width="120" style="border-radius: 50%; border: 3px solid #2563eb;">
     </td>
     <td valign="middle" style="padding-left: 20px;">
       <h1>Hi there, I'm Sameed Ahmed Siddiqui 👋</h1>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Centered Profile Banner -->
 <p align="center">
-  <img src="banner.jpg" alt="Sameed Ahmed Siddiqui Banner" width="100%">
+  <img src="banner.png" alt="Sameed Ahmed Siddiqui Banner" width="100%">
 </p>
 
 ## 🚀 About Me
